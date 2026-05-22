@@ -1,5 +1,6 @@
 # crack-svg-maker
 - 크랙에서 Cloudflare Workers를 고려하여 생성한 image 주소를 기기에서 svg 이미지로 치환합니다.
+- 이 확장은 ai를 사용하여 제작했습니다.
 - 다운로드 : https://github.com/hamster4762/crack-svg-maker/raw/refs/heads/main/crack-svg-maker.user.js
 
 # 사용방법
