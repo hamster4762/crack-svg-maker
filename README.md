@@ -12,6 +12,7 @@
 ## 로컬 서버에서 Image 가져오기
 1. image가 있는 폴더에서 HttpServer.exe 실행 (또는 python -m http.server 8000 --bind 127.0.0.1)
 2. 팝업창 상단에서 Image 주소 입력 `http://localhost:8000`
+3. HttpServer.exe 다운로드 : https://github.com/hamster4762/crack-svg-maker/releases/download/v.1.0.0/HttpServer.exe
 
 ## 외부 서버에서 Image 가져오기
 1. TamperMonkey 대시보드에서 SVG 이미지 생성기 클릭
